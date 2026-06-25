@@ -36,5 +36,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0610-triangle-judgement) |
 | [1789-primary-department-for-each-employee](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->

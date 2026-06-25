@@ -38,4 +38,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 | ------- |
 | [0610-triangle-judgement](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0610-triangle-judgement) |
 | [1789-primary-department-for-each-employee](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1789-primary-department-for-each-employee) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->

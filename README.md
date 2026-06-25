@@ -30,3 +30,11 @@ Each file corresponds to a solved LeetCode SQL problem.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1789-primary-department-for-each-employee](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1789-primary-department-for-each-employee) |
+<!---LeetCode Topics End-->
